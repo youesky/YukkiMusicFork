@@ -17,7 +17,7 @@ from pytgcalls.types import (
     VideoParameters, 
     VideoQuality
 )
-from YukkiMusic.core.mongo import mongodb
+from YukkiMusic.core.db import mongodb
 
 channeldb = mongodb.cplaymode
 commanddb = mongodb.commands

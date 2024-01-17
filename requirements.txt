@@ -10,11 +10,13 @@ motor
 ntgcalls
 pillow
 psutil
+psycopg
 pykeyboard
 py-tgcalls
 git+https://github.com/KurimuzonAkuma/pyrogram@dev
 python-dotenv
 pyyaml
+redis
 requests
 speedtest-cli
 spotipy

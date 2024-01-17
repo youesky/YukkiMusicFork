@@ -10,7 +10,7 @@
 
 from typing import Dict, List, Union
 
-from YukkiMusic.core.mongo import mongodb
+from YukkiMusic.core.db import mongodb
 
 queriesdb = mongodb.queries
 userdb = mongodb.userstats

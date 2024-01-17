@@ -11,7 +11,7 @@
 import random
 
 from YukkiMusic import userbot
-from YukkiMusic.core.mongo import mongodb
+from YukkiMusic.core.db import mongodb
 
 db = mongodb.assistants
 
