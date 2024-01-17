@@ -15,7 +15,7 @@ import heroku3
 from pyrogram import filters
 
 import config
-from YukkiMusic.core.db import pymongodb
+from YukkiMusic.core.mongo import pymongodb
 
 from .logging import LOGGER
 
